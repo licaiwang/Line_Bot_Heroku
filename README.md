@@ -17,4 +17,3 @@
 ## 架設在 Heroku 的方法
 
 [使用 Heroku 建立範例聊天機器人]("https://developers.line.biz/zh-hant/docs/messaging-api/building-sample-bot-with-heroku/#%E9%96%8B%E5%A7%8B%E4%B9%8B%E5%89%8D")
-
