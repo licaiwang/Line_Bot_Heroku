@@ -1,6 +1,6 @@
 # Line 聊天機器人 - 揪你 Journey
 
-![Imgur](https://imgur.com/G7ia7Al)
+![Imgur](https://imgur.com/RY03a1K)
 
 
 ## 目前功能
